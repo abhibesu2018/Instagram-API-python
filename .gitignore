@@ -1,3 +1,6 @@
 *.pyc
 InstagramApi.egg-info/
 dist/
+.idea/
+.idea/vcs.xml
+venv/
